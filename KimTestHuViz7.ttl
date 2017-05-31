@@ -656,6 +656,8 @@ cwrc:Orlando
    cwrc:alludesExplictlyTo cwrc:AlexanderPope ;
    cwrc:alludesExplicitlyTo cwrc:ElizabethI ;
    dc:creator cwrc:VirginiaWoolf .
+   a bibo:Book ;
+   dc:title "Orlando" .
 
 cwrc:AlexanderPope
     cwrc:hasGender cwrc:genderManMale ;
