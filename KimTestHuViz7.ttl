@@ -656,6 +656,7 @@ cwrc:Orlando
    cwrc:hasGenre cwrc:genreNovel ;
    cwrc:alludesExplictlyTo cwrc:AlexanderPope ;
    cwrc:alludesExplicitlyTo cwrc:ElizabethI ;
+   cwrc:hasAuthor cwrc:VirginiaWoolf
    a foaf:Person ;
    foaf:name "Orlando" .
   
