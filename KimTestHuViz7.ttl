@@ -660,13 +660,13 @@ cwrc:Orlando
 cwrc:AlexanderPope
     cwrc:hasGender cwrc:genderManMale ;
     cwrc:hasNationality cwrc:englishNationalIdentity ;
-    a foaf:Person .
+    a foaf:Person ;
     foaf:name "Alexander Pope" .
 
 cwrc:ElizabethI
     cwrc:hasGender cwrc:genderWomanFemale ;
     cwrc:hasNationality cwrc:englishNationalIdentity ;
-    a foaf:Person .
+    a foaf:Person ;
     foaf:name "Elizabeth I" .
 
 
