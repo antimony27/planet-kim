@@ -661,13 +661,13 @@ cwrc:AlexanderPope
     cwrc:hasGender cwrc:genderManMale ;
     cwrc:hasNationality cwrc:englishNationalIdentity ;
     a foaf:Person .
-    foaf:name “Alexander Pope” .
+    foaf:name "Alexander Pope" .
 
 cwrc:ElizabethI
     cwrc:hasGender cwrc:genderWomanFemale ;
     cwrc:hasNationality cwrc:englishNationalIdentity ;
     a foaf:Person .
-    foaf:name “Elizabeth I” .
+    foaf:name "Elizabeth I" .
 
 
 cwrc:annaleanowens1
